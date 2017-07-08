@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="stacked-for-small button-group"> <!-- Aynı şeyi large ve medium için de yapabilirsiniz -->
+  <a class="button">How</a>
+  <a class="button">Low</a>
+  <a class="button">Can</a>
+  <a class="button">You</a>
+  <a class="button">Go</a>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>f6:button-group-stack</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

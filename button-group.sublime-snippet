@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="button-group"> <!-- Also you can add the .tiny, .small or .large classes to want to size its -->
+  <a class="button">One</a>
+  <a class="button">Two</a>
+  <a class="button">Three</a>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>f6:button-group</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
