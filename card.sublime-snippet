@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="card" style="width: 300px;">
+  <div class="card-divider">
+    <h4>I'm featured</h4>
+  </div>
+  <img src="assets/img/generic/rectangle-1.jpg">
+  <div class="card-section">
+    <p>This card makes use of the card-divider element.</p>
+  </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>f6:card</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
