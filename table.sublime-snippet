@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<table>
+<table> <!-- Hover eklemek isterseniz sadece .hover classı eklemeniz yeterli olacaktır -->
   <thead>
     <tr>
       <th width="200">Table Header</th>
