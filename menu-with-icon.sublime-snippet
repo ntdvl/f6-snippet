@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<ul class="menu">
+  <li><a href="#"><i class="fi-list"></i> <span>One</span></a></li>
+  <li><a href="#"><i class="fi-list"></i> <span>Two</span></a></li>
+  <li><a href="#"><i class="fi-list"></i> <span>Three</span></a></li>
+  <li><a href="#"><i class="fi-list"></i> <span>Four</span></a></li>
+</ul>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>f6:menu-with-icon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

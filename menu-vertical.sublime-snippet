@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<ul class="vertical menu"> <!-- Ayrıca .align-right, .align-center veya .align-left classlarını da ekleyebilirsiniz -->
+  <li><a href="#">One</a></li>
+  <li><a href="#">Two</a></li>
+  <li><a href="#">Three</a></li>
+  <li><a href="#">Four</a></li>
+</ul>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>f6:menu-vertical</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
