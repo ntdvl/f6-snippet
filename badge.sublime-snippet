@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<span class="badge">1</span> <!-- Renklendirmek için .primary, .secondary, .success, .alert veya .warning classlarını ekleyebilirsiniz. Veya kendi oluşturduğunuz Foundation paletiniz varsa oradaki renkleri de kullanabilirsiniz -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>f6:badge</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
