@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="callout"> <!-- Ayrıca callout'a .secondary, .primary, .success, .warning, veya .alert classlarını da ekleyebilirsiniz. Boyutlandırmak için de .small veya .large classlarından birini ekleyebilirsiniz  -->
+  <h5>This is a callout.</h5>
+  <p>It has an easy to override visual style, and is appropriately subdued.</p>
+  <a href="#">It's dangerous to go alone, take this.</a>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet --> 
+	<tabTrigger>f6:callout</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
