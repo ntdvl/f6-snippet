@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="grid-x grid-margin-x">
+  <div class="medium-6 large-4 cell">12/6/4 cells</div>
+  <div class="medium-6 large-8 cell">12/6/8 cells</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>f6:full-grid-mg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
