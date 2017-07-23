@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 <div class="grid-x">
-  <div class="small-4 cell">6 cells</div>
-  <div class="small-4 cell">6 cells</div>
-  <div class="small-4 cell">6 cells</div>
+  <div class="small-4 cell">4 cells</div>
+  <div class="small-4 cell">4 cells</div>
+  <div class="small-4 cell">4 cells</div>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
