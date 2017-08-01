@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<ul class="accordion" data-accordion> <!-- You need include foundation.accordion.js, foundation.core.js -->
+<ul class="accordion" data-accordion> <!-- You need include foundation.accordion.js, foundation.core.js. For make a multiexpand accordion menu just add data-multi-expand="true" attribute. -->
   <li class="accordion-item is-active" data-accordion-item>
     <!-- Accordion tab title -->
     <a href="#" class="accordion-title">Accordion 1</a>
