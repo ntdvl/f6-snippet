@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<ul class="vertical menu accordion-menu" data-accordion-menu> <!-- You need add foundation.accordionMenu.js and foundation.core.js -->
+  <li>
+    <a href="#">Item 1</a>
+    <ul class="menu vertical nested">
+      <li><a href="#">Item 1A</a></li>
+      <li><a href="#">Item 1B</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Item 2</a></li>
+</ul>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>f6:accordion-menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
