@@ -5,8 +5,8 @@ Foundation 6 snippet which make easier and faster coding
 <table> 
 	  <thead>
 	    <tr>
-	      <th width="250">Key</th>
-	      <th>Description</th>
+	      <th width="250">Component</th>
+	      <th>Usage</th>
 	    </tr>
 	  </thead>
 	  <tbody>
