@@ -47,3 +47,34 @@ Foundation 6 snippet which make easier and faster coding
     </tr>
   </tbody>
 </table>
+<h2>XY Grid</h2>
+<table> 
+  <thead>
+    <tr>
+      <th width="250">Component</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/xy-grid.html" target="_blank">Grid Container</a></td>
+      <td>f6:grid-container+tab</td>
+    </tr>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/xy-grid.html"" target="_blank">Full Grid</a></td>
+      <td>f6:full-grid+tab</td>
+    </tr>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/xy-grid.html"" target="_blank">Quarter Grid</a></td>
+      <td>f6:quarter-grid+tab</td>
+    </tr>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/xy-grid.html"" target="_blank">Third Grid</a></td>
+      <td>f6:third-grid+tab</td>
+    </tr>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/xy-grid.html"" target="_blank">Half Grid</a></td>
+      <td>f6:half-grid+tab</td>
+    </tr>    
+  </tbody>
+</table>
