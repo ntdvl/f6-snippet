@@ -94,6 +94,18 @@ Foundation 6 snippet which make easier and faster coding
     <tr>
       <td><a href="http://foundation.zurb.com/sites/docs/breadcrumbs.html" target="_blank">Breadcrumb</a></td>
       <td>f6:breadcrumb+tab</td>
+    </tr>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/accordion-menu.html" target="_blank">Accordion</a></td>
+      <td>f6:accordion+tab</td>
+    </tr>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/accordion-menu.html" target="_blank">Accordion Menu</a></td>
+      <td>f6:accordion-menu+tab</td>
+    </tr>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/accordion-menu.html" target="_blank">Accordion Submenu</a></td>
+      <td>f6:accordion-submenu+tab</td>
     </tr>   
   </tbody>
 </table>
