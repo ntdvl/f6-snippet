@@ -78,3 +78,22 @@ Foundation 6 snippet which make easier and faster coding
     </tr>    
   </tbody>
 </table>
+<h2>Navigation</h2>
+<table> 
+  <thead>
+    <tr>
+      <th width="250">Component</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/pagination.html" target="_blank">Pagination</a></td>
+      <td>f6:pagination+tab</td>
+    </tr>
+    <tr>
+      <td><a href="http://foundation.zurb.com/sites/docs/breadcrumbs.html" target="_blank">Breadcrumb</a></td>
+      <td>f6:breadcrumb+tab</td>
+    </tr>   
+  </tbody>
+</table>
