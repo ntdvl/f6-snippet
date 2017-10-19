@@ -109,3 +109,39 @@ Foundation 6 snippet which make easier and faster coding
     </tr>   
   </tbody>
 </table>
+<h2>Progress Bar</h2>
+<table> 
+  <thead>
+    <tr>
+      <th width="250">Component</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://foundation.zurb.com/sites/docs/progress-bar.html#basics" target="_blank">Progress Bar</a></td>
+      <td>f6:progress-bar+tab</td>
+    </tr>
+    <tr>
+      <td><a href="https://foundation.zurb.com/sites/docs/progress-bar.html#with-text" target="_blank">Progress Bar With Text</a></td>
+      <td>f6:progress-bar:text+tab</td>
+    </tr>
+    <tr>
+      <td><a href="https://foundation.zurb.com/sites/docs/progress-bar.html#colors" target="_blank">Progress Bar Secondary</a></td>
+      <td>f6:progress-bar:2+tab</td>
+    </tr>
+    <tr>
+      <td><a href="https://foundation.zurb.com/sites/docs/progress-bar.html#colors" target="_blank">Progress Bar Success</a></td>
+      <td>f6:progress-bar:3+tab</td>
+    </tr>
+    <tr>
+      <td><a href="https://foundation.zurb.com/sites/docs/progress-bar.html#colors" target="_blank">Progress Bar Warning</a></td>
+      <td>f6:progress-bar:4+tab</td>
+    </tr>
+    <tr>
+      <td><a href="https://foundation.zurb.com/sites/docs/progress-bar.html#colors" target="_blank">Progress Bar Alert</a></td>
+      <td>f6:progress-bar:5+tab</td>
+    </tr>
+     
+  </tbody>
+</table>
